@@ -92,7 +92,12 @@ h4.home__text{
     }
 
 }
-
+@media only screen and (max-width: 447px){
+    .hero-container{
+        height:46vh;
+    }
+    
+}
 @media only screen and (max-width: 334px){
     h1.home__text{
         /* margin-top: 150px; */
