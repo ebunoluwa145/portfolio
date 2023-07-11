@@ -13,7 +13,7 @@
 
 .pl-title{
     font-size: 50px;
-    font-weight: 600;
+    
 }
 
 .pl-desc{
@@ -27,7 +27,22 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
-
+@media only screen and (max-width: 600px) and (min-width: 573px){
+  .pl{
+    padding: 15px;
+  }
+  .pl-title{
+    font-size: 50px;
+  }
+}
+@media only screen and (max-width: 567px){
+  .pl{
+    padding: 5px 15px 15px 15px;
+  }
+  .pl-title{
+    font-size: 50px;
+  }
+}
 @media screen and (max-width: 480px) {
     .pl {
       padding: 10px;
@@ -39,5 +54,23 @@
   
     .pl-desc {
       display: none;
+    }
+  }
+  @media only screen and (max-width: 334px){
+    .pl{
+      padding: 15px;
+    }
+    .pl-title{
+      font-size: 40px;
+    }
+  }
+
+  @media only screen and (max-width: 261px){
+    .pl{
+      padding: 10px;
+    }
+    .pl-title{
+      font-size: 40px;
+     
     }
   }

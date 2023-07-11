@@ -14,7 +14,7 @@ const Cardlist = ({img, link,status}) => {
             <div className="p-circle yellow"></div>
             <div className="p-circle green"></div>
         </div>  
-            <h3 className='title'>{status}</h3>
+            <h3 className='p-title'>{status}</h3>
         </div>
         
         

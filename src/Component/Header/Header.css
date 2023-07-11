@@ -83,3 +83,47 @@ h4.home__text{
     display: flex;
     align-items: center;
 }
+@media only screen and (max-width: 567px){
+    .i-title-item{
+        height:30px;
+        font-size: 25px;
+        /* color: green; */
+        margin-top: 3px;
+    }
+
+}
+@media only screen and (max-width: 334px){
+    h1.home__text{
+        /* margin-top: 150px; */
+        font-size: 14px;
+        font-weight: 400;
+        /* letter-spacing: 3px; */
+    }
+    .i-title-item{
+        height:20px;
+        font-size: 17px;
+        /* color: green; */
+       
+    }
+    .hero-container{
+        height:40vh;
+    }
+}
+@media only screen and (max-width: 261px){
+    h1.home__text{
+        /* margin-top: 150px; */
+        font-size: 10px;
+        font-weight: 400;
+        /* letter-spacing: 3px; */
+    }
+    .i-title-item{
+        height:15px;
+        font-size: 15px;
+        /* color: green; */
+       
+    }
+    .hero-container{
+        height:30vh;
+        
+    }
+}

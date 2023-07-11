@@ -1,6 +1,6 @@
 import React from 'react'
 import './AboutComp.css'
-import img1 from '../../images/img1.jpg'
+import img1 from '../../images/pandas.jpg'
 import {Link} from 'react-router-dom'
 
 

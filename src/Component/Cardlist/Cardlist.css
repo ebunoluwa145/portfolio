@@ -42,7 +42,7 @@
 .p-circle.green{
     background-color: green;
 }
-.title{
+.p-title{
     color:#F9004D;
     padding:2px;
     align-items: right !important;
@@ -58,9 +58,68 @@
     transform: translateY(-100%);
 }
 
+@media only screen and (max-width: 1022px) {
+    .p{
+        width: 45%;
+        height: 30vh;
+
+    }
+    .p-title{
+        font-size: 14px;
+    }
+    
+}
+@media only screen and (max-width: 914px) {
+    .p{
+        width: 45%;
+        height: 27vh;
+
+    }
+    .p-title{
+        font-size: 14px;
+    }
+    
+}
+@media only screen and (max-width: 567px){
+    .p{
+        width: 45%;
+        height: 30vh;
+
+    }
+    .p-title{
+        font-size: 14px;
+    }
+    
+}
+@media only screen and (max-width: 600px) and (min-width: 573px) {
+    .p {
+        width: 40%;
+        height: 23vh;
+      }
+}
 @media screen and (max-width: 480px) {
     .p {
       width: 40%;
       height: 20vh;
+    }
+  }
+  @media only screen and (max-width: 334px){
+    .p{
+        width: 100%;
+        height: 30vh;
+
+    }
+    .p-title{
+        font-size: 14px;
+    }
+  }
+  @media only screen and (max-width: 261px){
+    .p{
+        width: 100%;
+        height: 30vh;
+
+    }
+    .p-title{
+        font-size: 14px;
     }
   }
