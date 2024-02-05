@@ -4,6 +4,9 @@ import chopfood from '../src/images/CHOPFOOD_HOME.png'
 import project from '../src/images/project.png'
 import responsive from "../src/images/responsive.png"
 import login from "../src/images/login.png"
+import worldfood from "../src/images/worldfood.png"
+import firekicks from "../src/images/firekicks.png"
+
 
 
 export const cardlist =[
@@ -43,16 +46,18 @@ export const cardlist =[
         link:"#",
         status:"Webpage(static)"
    },
-//     {
-//         id:7,
-//         img: responsive,
-//         link:"#"
-//     },
-//     {
-//         id:8,
-//         img: responsive,
-//         link:"#"
-//     },
+    {
+        id:7,
+        img: worldfood,
+        link:"http://worldfood.lovestoblog.com/",
+        status:"live"
+    },
+    {
+        id:8,
+        img: firekicks,
+        link:"https://firekicks.lovestoblog.com/",
+        status:"live"
+    }
 //     {
 //         id:9,
 //         img: responsive,
