@@ -62,6 +62,7 @@ export const cardlist = [{
     {
         id: 9,
         img: aventon,
-        link: "https://aventonconsulting.com.ng/"
+        link: "https://aventonconsulting.com.ng/",
+        status: "live"
     }
 ]
