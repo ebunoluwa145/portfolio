@@ -26,7 +26,7 @@ function AboutComp() {
                         {/* <p className="about__text p__color">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum voluptatem sit aut labore veritatis, cumque ipsam velit quae error, assumenda exercitationem ducimus earum quaerat magnam placeat corporis dicta tenetur iste.</p>
                         <p className="about__text p__color">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum voluptatem sit aut labore veritatis, cumque ipsam velit quae error, assumenda exercitationem ducimus earum quaerat magnam placeat corporis dicta tenetur iste.</p> */}
                         <div className="about__button d__text align__items__center">
-                            <a href="https://www.slideshare.net/slideshow/fullstack-web-development-resume-for-ebunoluwa/270252529"><button className="about btn pointer">Download CV</button></a>
+                            <a href="https://www.slideshare.net/slideshow/fullstack-development-resume-for-omosebi-ebunoluwa/272502067"><button className="about btn pointer">Download CV</button></a>
                             <a href="mailto:ebunoluwaomosebi007@gmail.com"><button className="about btn pointer">Hire me</button></a>
 
                         </div>
