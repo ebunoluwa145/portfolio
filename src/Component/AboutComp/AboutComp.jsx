@@ -16,13 +16,8 @@ function AboutComp() {
                 <div className="col__2">
                     <h1 className="about__heading" >About Me</h1>
                     <div className="about__meta">
-                        <p className="about__text p__color">A full stack developer with experience of building and
-                            maintaining web applications. Proficient in both front-end and
-                            back-end development, with a strong foundation in computer
-                            science principles. Skilled in utilizing a variety of programming
-                            languages and frameworks, including HTML, CSS, JavaScript,
-                            React, PHP. Able to work and learn in both team and individual
-                            settings.</p>
+                        <p className="about__text p__color">A dedicated full stack developer with 3+ years of hands-on experience in building and maintaining web applications. Proficient in both front-end and back-end development, with a strong foundation in computer science principles. Specialized in WordPress and PHP development, including custom themes, plugin development, and API integrations. Skilled in using a variety of technologies including HTML, CSS, JavaScript, React, and PHP to build responsive, secure, and scalable websites. Able to work and learn effectively both independently and within agile teams to deliver robust, user-friendly CMS platforms.
+                        </p>
                         {/* <p className="about__text p__color">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum voluptatem sit aut labore veritatis, cumque ipsam velit quae error, assumenda exercitationem ducimus earum quaerat magnam placeat corporis dicta tenetur iste.</p>
                         <p className="about__text p__color">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum voluptatem sit aut labore veritatis, cumque ipsam velit quae error, assumenda exercitationem ducimus earum quaerat magnam placeat corporis dicta tenetur iste.</p> */}
                         <div className="about__button d__text align__items__center">
